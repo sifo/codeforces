@@ -1,0 +1,11 @@
+1) find R the radius and O(x, y) the center coordonates of the cercle with the given 3 points
+
+2) find how many rotation is necesary to go from one point the exact same point
+
+   We suppose n = 3 and we do n rotaton of a point A.
+   If we're back on that point A, then the polygon has n sides.
+   Else, we do the same thing for n+1.
+
+3) Determine the polygon area with R and n.
+
+http://mathsenligne.net/telechargement/3eme/3g4/3g4_crs.pdf
